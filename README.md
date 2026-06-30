@@ -1,4 +1,4 @@
-# 🌐 JARVIS AI IP Address Intelligence Scanner
+# 🌐AI IP Address Intelligence Scanner
 
 A Python-based **AI-style IP intelligence scanner simulator** that analyzes an IP address and generates a detailed network security report.
 
